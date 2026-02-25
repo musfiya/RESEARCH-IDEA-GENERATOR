@@ -1,3 +1,7 @@
+
+"RESEARCH IDEA GENERATOR"
+
+
 Figuring out idea for your research paper to work on . relax your work is made easy . let RIG do it . a simple beginner friendly python project which generates a random idea based on certain domains and methdologies . give it a shot if you wanna dive in into research
 
 🎯 Research Topic Generator (Python Mini Project)
